@@ -12,8 +12,8 @@ import java.sql.SQLException;
 import java.util.List;
 
 /**
- * Created by katermar
- * <p>
+ * Created by katermar .
+ *
  * Implementation of the interface, which is used to work with 'director' table.
  */
 public class DirectorDaoImpl implements DirectorDao {

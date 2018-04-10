@@ -1,7 +1,7 @@
 package com.katermar.movierating.entity;
 
 /**
- * Created by katermar
+ * Created by katermar .
  */
 public class Rating {
     private int id;

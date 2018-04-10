@@ -4,7 +4,7 @@ import java.sql.Date;
 import java.util.List;
 
 /**
- * Created by katermar
+ * Created by katermar .
  */
 public class Film {
     private int id;

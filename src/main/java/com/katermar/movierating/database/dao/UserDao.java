@@ -6,7 +6,7 @@ import com.katermar.movierating.exception.DAOException;
 import java.util.List;
 
 /**
- * Created by katermar
+ * Created by katermar .
  */
 public interface UserDao extends GenericDao<User> {
     boolean create(User user) throws DAOException;

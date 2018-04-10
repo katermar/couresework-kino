@@ -10,8 +10,8 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by katermar
- * <p>
+ * Created by katermar .
+ *
  * Implementation of the interface, which is used to work with 'film' table.
  */
 public class FilmDaoImpl implements FilmDao {

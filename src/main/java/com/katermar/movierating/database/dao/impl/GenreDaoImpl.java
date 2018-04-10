@@ -12,7 +12,7 @@ import java.sql.SQLException;
 import java.util.List;
 
 /**
- * Created by katermar
+ * Created by katermar .
  * <p>
  * Implementation of the interface, which is used to work with 'genre' table.
  */

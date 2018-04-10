@@ -1,7 +1,7 @@
 package com.katermar.movierating.exception;
 
 /**
- * Created by katermar
+ * Created by katermar .
  */
 public class DAOException extends Exception {
     public DAOException() {

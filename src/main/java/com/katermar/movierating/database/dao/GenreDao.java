@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.util.List;
 
 /**
- * Created by katermar
+ * Created by katermar .
  */
 public interface GenreDao extends GenericDao<Genre> {
     List<Genre> getGenresByFilmId(long id) throws DAOException;

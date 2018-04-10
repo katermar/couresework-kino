@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by katermar
+ * Created by katermar .
  */
 public interface FilmDao extends GenericDao<Film> {
     List<Film> getByUser(long userId) throws DAOException;
