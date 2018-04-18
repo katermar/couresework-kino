@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.util.List;
 
 /**
- * Created by katermar
+ * Created by katermar .
  */
 public interface RatingDao extends GenericDao<Rating> {
     List<Rating> getByUser(long userId) throws DAOException;

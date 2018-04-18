@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by katermar
+ * Created by katermar .
  */
 public interface GenericDao<T> {
 

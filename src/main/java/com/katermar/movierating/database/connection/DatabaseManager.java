@@ -9,8 +9,8 @@ import java.sql.SQLException;
 import java.util.ResourceBundle;
 
 /**
- * Created by katermar
- * <p>
+ * Created by katermar .
+ *
  * Class, which manages database and takes new connections from it.
  */
 class DatabaseManager {

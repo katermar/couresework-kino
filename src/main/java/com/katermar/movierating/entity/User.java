@@ -5,7 +5,7 @@ import java.sql.Date;
 import java.sql.Timestamp;
 
 /**
- * Created by katermar
+ * Created by katermar .
  */
 public class User implements Serializable {
     private int id;
@@ -138,21 +138,21 @@ public class User implements Serializable {
     }
 
     /**
-     * Created by katermar
+     * Created by katermar .
      */
     public enum UserRole {
         ADMIN, USER
     }
 
     /**
-     * Created by katermar
+     * Created by katermar .
      */
     public enum UserStatus {
         BANED, UNBANED, UNCONFIRMED
     }
 
     /**
-     * Created by katermar
+     * Created by katermar .
      */
     public enum UserLevel {
         BEGINNER, INTERMEDIATE, ADVANCED, EXPERT;

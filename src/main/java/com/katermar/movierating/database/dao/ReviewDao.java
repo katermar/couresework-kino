@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.util.List;
 
 /**
- * Created by katermar
+ * Created by katermar .
  */
 public interface ReviewDao extends GenericDao<Review> {
     List<Review> getByUser(int userId) throws DAOException;

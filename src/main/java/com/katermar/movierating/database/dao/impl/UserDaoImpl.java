@@ -15,8 +15,8 @@ import static com.katermar.movierating.entity.User.UserRole;
 import static com.katermar.movierating.entity.User.UserStatus;
 
 /**
- * Created by katermar
- * <p>
+ * Created by katermar .
+ *
  * Implementation of the interface, which is used to work with 'user' table.
  */
 public class UserDaoImpl implements UserDao {

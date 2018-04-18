@@ -3,7 +3,7 @@ package com.katermar.movierating.entity;
 import java.sql.Timestamp;
 
 /**
- * Created by katermar
+ * Created by katermar .
  */
 public class Review {
     private int id;
@@ -95,7 +95,7 @@ public class Review {
 
 
     /**
-     * Created by katermar
+     * Created by katermar .
      */
     public enum ReviewFields {
         IDREVIEW,

@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.util.List;
 
 /**
- * Created by katermar
+ * Created by katermar .
  */
 public interface DirectorDao extends GenericDao<Director> {
     Director getDirectorByFilm(int filmId) throws DAOException;
